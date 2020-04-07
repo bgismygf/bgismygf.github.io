@@ -2,9 +2,16 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9">
   
   <url>
-    <loc>https://bgismygf.github.io/2020/04/02/test/</loc>
+    <loc>https://bgismygf.github.io/2020/04/05/Hexo%20Theme/</loc>
     
-    <lastmod>2020-04-03T09:13:47.303Z</lastmod>
+    <lastmod>2020-04-07T10:40:39.467Z</lastmod>
+    
+  </url>
+  
+  <url>
+    <loc>https://bgismygf.github.io/2020/04/02/Hello%20Hexo/</loc>
+    
+    <lastmod>2020-04-07T10:34:56.706Z</lastmod>
     
   </url>
   
@@ -19,13 +26,6 @@
     <loc>https://bgismygf.github.io/categories/index.html</loc>
     
     <lastmod>2020-03-30T12:48:31.875Z</lastmod>
-    
-  </url>
-  
-  <url>
-    <loc>https://bgismygf.github.io/2020/03/20/hello-world/</loc>
-    
-    <lastmod>2020-03-30T12:29:51.153Z</lastmod>
     
   </url>
   
